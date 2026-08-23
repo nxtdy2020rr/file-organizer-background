@@ -85,3 +85,6 @@ This tests rule parsing, naming collision increments, and file scan movements in
 
 ---
 *Released under the MIT License by AlexanderAM1231.*
+
+---
+*Released under the MIT License by nxtdy2020rr.*
